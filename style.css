@@ -1,0 +1,48 @@
+body{
+    /* background-image: url(./img/doodle.png); */
+    width: 100%;
+height: 2834px;
+background: #151437;
+}
+.col-9{
+    display: flex;
+    justify-content: center;
+    margin-left: 130px;
+}
+.col-6{
+    color: white;
+
+}
+.col-6 h1{
+    color: #7177F1;
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px; /* 75% */
+text-transform: capitalize;
+}
+.h11{
+    color: #7177F1;
+text-align: center;
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 40px;
+}
+.rowcha{
+    gap: 20px   ;
+}
+.container{
+    gap: 200px;
+}
+.col-6cha{
+    display: flex;
+}
+.yalaq{
+    margin-top: 300px;
+    margin-left: 500px;
+}
